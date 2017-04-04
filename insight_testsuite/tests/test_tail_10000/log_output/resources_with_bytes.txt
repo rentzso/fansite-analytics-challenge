@@ -1,0 +1,10 @@
+/,11298576
+/shuttle/missions/sts-71/movies/sts-71-tcdt-crew-walkout.mpg,8049236
+/shuttle/missions/sts-71/movies/sts-71-launch.mpg,7973758
+/shuttle/missions/sts-53/movies/sts-53-launch.mpg,7618296
+/shuttle/countdown/count70.gif,4075911
+/shuttle/technology/sts-newsref/stsref-toc.html,3245022
+/shuttle/missions/sts-71/movies/sts-71-mir-dock.mpg,2839275
+/shuttle/technology/sts-newsref/sts_asm.html,2327788
+/shuttle/missions/sts-71/movies/sts-71-landing.mpg,2109352
+/shuttle/countdown/video/livevideo2.gif,2078952

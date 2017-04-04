@@ -1,0 +1,3 @@
+/login,8520
+/shuttle/countdown/,7970
+/shuttle/countdown/liftoff.html,0

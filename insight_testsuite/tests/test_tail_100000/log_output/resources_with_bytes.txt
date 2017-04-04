@@ -1,0 +1,10 @@
+/,111305995
+/shuttle/missions/sts-71/movies/sts-71-launch.mpg,91468466
+/shuttle/missions/sts-71/movies/sts-71-tcdt-crew-walkout.mpg,89090460
+/shuttle/missions/sts-53/movies/sts-53-launch.mpg,51214624
+/shuttle/countdown/count70.gif,45521234
+/shuttle/technology/sts-newsref/stsref-toc.html,35312094
+/shuttle/countdown/video/livevideo2.gif,23408644
+/shuttle/missions/sts-71/movies/sts-71-hatch-hand-group.mpg,21620980
+/shuttle/missions/sts-70/movies/woodpecker.mpg,19175916
+/shuttle/missions/sts-70/movies/sts-70-launch-press.mpg,18529308

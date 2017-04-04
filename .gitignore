@@ -1,0 +1,6 @@
+venv
+temp
+log_input/*.txt
+log_output/*.txt
+insight_testsuite/temp
+insight_testsuite/results.txt

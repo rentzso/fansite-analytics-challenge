@@ -1,0 +1,10 @@
+pcmas.it.bton.ac.uk,208
+163.205.46.54,60
+bronte.helios.nd.edu,54
+internet.datalytics.com,54
+128.159.77.122,50
+204.239.240.126,49
+130.181.3.198,47
+athena.capital.edu,47
+163.205.156.16,46
+graphor.hip.cam.org,46

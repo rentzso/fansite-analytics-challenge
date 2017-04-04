@@ -1,0 +1,10 @@
+/shuttle/missions/sts-71/movies/sts-71-tcdt-crew-walkout.mpg,1535156
+/,1103563
+/shuttle/countdown/count.gif,644960
+/shuttle/missions/sts-71/movies/crew-arrival-t38.mpg,611444
+/shuttle/missions/sts-71/images/index71.gif,545452
+/shuttle/missions/sts-71/movies/sts-71-launch-3.mpg,522896
+/history/apollo/apollo-13/movies/apo13inside.mpg,501126
+/shuttle/countdown/count70.gif,417420
+/shuttle/movies/TDRSopen.mpg,401595
+/shuttle/missions/sts-71/movies/sts-71-hand-shake.mpg,372172
